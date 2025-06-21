@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arikei/my-react-app.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Arikei/my-react-app.git/static/js/main.9cc8df7f.js",
+    "static/js/453.a6e944c0.chunk.js": "/Arikei/my-react-app.git/static/js/453.a6e944c0.chunk.js",
+    "index.html": "/Arikei/my-react-app.git/index.html",
+    "main.e6c13ad2.css.map": "/Arikei/my-react-app.git/static/css/main.e6c13ad2.css.map",
+    "main.9cc8df7f.js.map": "/Arikei/my-react-app.git/static/js/main.9cc8df7f.js.map",
+    "453.a6e944c0.chunk.js.map": "/Arikei/my-react-app.git/static/js/453.a6e944c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9cc8df7f.js"
+  ]
+}
